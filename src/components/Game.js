@@ -1,7 +1,15 @@
 import Random from "./random";
 
 function Game() {
-  const textValues = ["Item1", "Item2", "Item3", "Item4", "Item5"];
+  const textValues = [
+    "Aadi Jain",
+    "Akshat Chowdhary",
+    "Chhavi Goyal",
+    "Satyajit",
+    "Sonu Yadav",
+    "Vansh Kumar",
+    "Yash Mishra"
+  ];
 
   return (
     <ul className="flex items-center text-white w-[50%] md:w-[50%] h-[100%] flex-col justify-center text-4xl z-10 gap-10 Trial-Bold">

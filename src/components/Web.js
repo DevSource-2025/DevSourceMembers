@@ -1,7 +1,50 @@
 import Random from "./random";
 
 function Web() {
-  const textValues = ["Item1", "Item2", "Item3", "Item4", "Item5"];
+  const textValues = [
+    "Aadesh Balyan",
+    "Aayush Aswal",
+    "Adarsh Singh",
+    "Aditya Sehgal",
+    "Akash Das",
+    "Akshay Kumar",
+    "Akshat Chowdhary",
+    "Aman",
+    "Anshu Kumar",
+    "Anshika Rathore",
+    "Arkin Kansra",
+    "Arnav Jain",
+    "Arnav Kumar Gupta",
+    "Aryan",
+    "Aryan Thakur",
+    "Ashwani Thakur",
+    "Chhavi Goyal",
+    "Dhruv Chhikara",
+    "Harsh Verma",
+    "Khushi Bhaskar",
+    "Khushaan Kapil",
+    "Manvi Singhal",
+    "Mayank Suri",
+    "Piyush",
+    "Prapti Gupta",
+    "Rachit Talwar",
+    "Raunak Kumar",
+    "Raghav Lakhanpal",
+    "Riyansh",
+    "Rishi Ramani",
+    "Sahil Verma",
+    "Shekhar",
+    "Shivam Kumar Khare",
+    "Sonu Yadav",
+    "Suraj",
+    "Tarun Kumar",
+    "Ujjwal Lehri",
+    "Utkarsh Yadav",
+    "Vansh Kumar",
+    "Vishesh Goel",
+    "Yash Mishra"
+  ];
+  
 
   return (
     <ul className="flex items-center text-white w-[50%] md:w-[50%] h-[100%] flex-col justify-center text-4xl z-10 gap-10 Trial-Bold">

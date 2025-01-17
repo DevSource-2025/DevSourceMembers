@@ -1,7 +1,22 @@
 import Random from "./random";
 
 function Android() {
-  const textValues = ["Item1", "Item2", "Item3", "Item4", "Item5"];
+  const textValues = [
+    "Abhisar Tyagi",
+    "Aadesh Balyan",
+    "Adarsh Tiwari",
+    "Akash",
+    "Anurag Kumar Singh",
+    "Aryan",
+    "Chhavi Goyal",
+    "Dhruv Chhikara",
+    "Khushaan Kapil",
+    "Krishna Sharma",
+    "Krrish Khowal",
+    "Manvi Singhal",
+    "Satyajit",
+    "Yash Mishra"
+  ];
 
   return (
     <ul className="flex items-center text-white w-[50%] md:w-[50%] h-[100%] flex-col justify-center text-4xl z-10 gap-10 Trial-Bold">
